@@ -18,7 +18,8 @@
     <link itemprop="mainEntityOfPage" rel="canonical" href="https://mollyforvermont.com/" />
     <meta name="google-site-verification" content="tbL9LIRtRs7iFzlu6jwUayUXGmTDgf_ziwxrF4ZY4fA" />
     <link rel="amphtml" href="https://mollyforvermont.com/amp/">
-    <meta name="robots" content="index, follow" />
+	<meta name="google-site-verification" content="IFSEm-xp7YqIVO9C6udNAQr-n2F7wy2djcwETs2MUeI" />
+	<meta name="robots" content="index, follow" />
     <meta name="page-locale" content="id,en">
     <meta content="true" name="HandheldFriendly">
     <meta content="width" name="MobileOptimized">
