@@ -24,7 +24,7 @@
         content="Toto slot adalah agen slot gacor yang memiliki banyak sekali member di asia dengan memberikan jamuan fitur permainan menarik serta memberikan hasil WD tanpa batas" />
     <meta name="keywords" content="alexistogel, agen slot, daftar alexistogel, login alexistogel, situs agen slot" />
     <meta property="og:url" content="https://codxpro.com/" />
-    <link rel="amphtml" href="https://codxpro.com/amp/" />
+    <link rel="amphtml" href="https://ampseopython.pages.dev/" />
     <meta property="og:site_name" content="Alexistogel" />
     <meta property="og:image" content="https://kilat.digital/images/2025/04/10/528fb2b4b1d34c256eb4a68a765d1f05.jpg" />
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
