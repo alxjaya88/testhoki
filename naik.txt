@@ -16,7 +16,7 @@
     <meta name="google-site-verification" content="Qxh1T6fLeSRtXZlaSm_pN-U3MFMXxNeK4QVhK7PbcMQ" />
 <meta name="google-site-verification" content="tapXnSLlAtxCNYKDGbVwCvPYmUrFKT4__4NKeXnx_Zc" />
     <meta name="robots" content="all" />
-    <link rel="amphtml" href="https://goclubfitness.com/amp" />
+    <link rel="amphtml" href="https://sportsjerseypedia.com/amp" />
 <meta name="google-site-verification" content="xcfv5SjRL4FGujlxiyFyq9dLD6gXzW3pMwXkQfSVUt0" />
     <meta name="rating" content="general" />
     <meta name="geo.region" content="id_ID" />
@@ -34,12 +34,12 @@
         content="Selamat datang di situs bandar togel resmi dan terpercaya 2025 dapatkan kemenangan terbaik dengan bermain togel online disini" />
     <meta name="google-site-verification" content="vmmMg7I1Oxi39yMPiWPL5VP34lAev6E8DtE6Mz-A4-M" />
     <meta name="google-site-verification" content="pQCPVsSlioADIdjSvuhKhieeYPHoJA89oBcuYDejfkM" />
-    <meta property="og:url" content="https://goclubfitness.com/" />
+    <meta property="og:url" content="https://sportsjerseypedia.com/" />
     <meta property="og:site_name" content="ALEXISTOGEL" />
     <meta property="og:image"
         content="https://sgp1.digitaloceanspaces.com/alexisimage/front/apk/LOGO%20APK%20ALX.png" />
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-    <link rel="canonical" itemprop="mainEntityOfPage" href="https://goclubfitness.com/" />
+    <link rel="canonical" itemprop="mainEntityOfPage" href="https://sportsjerseypedia.com/" />
     <link rel="shortcut icon" href="https://sgp1.digitaloceanspaces.com/alexisimage/front/apk/LOGO%20APK%20ALX.png" />
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
@@ -55,7 +55,7 @@
             "description": "Selamat datang di situs bandar togel resmi dan terpercaya 2025 dapatkan kemenangan terbaik dengan bermain togel online disini",
             "keywords": ["alexistogel, alexis togel, alexistoto, login alexistogel, daftar alexistogel, togel online, prediksi togel, bandar togel, togel toto, toto togel resmi"],
             "image": "https://kilat.digital/images/2025/02/18/f80243cf00168118228ebe58ca4fd7af.jpg",
-            "url": "https://goclubfitness.com/",
+            "url": "https://sportsjerseypedia.com/",
             "publisher": { 
                 "@type": "Organization", 
                 "name": "ALEXISTOGEL"},
